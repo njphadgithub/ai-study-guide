@@ -1,6 +1,0 @@
-# Secret files
-.env
-secrets.toml
-
-# Python virtual environment
-venv/
