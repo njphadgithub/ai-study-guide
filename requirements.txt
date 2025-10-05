@@ -1,6 +1,0 @@
-streamlit
-pandas
-pypdf
-google-generativeai
-python-dotenv
-beautifulsoup4
